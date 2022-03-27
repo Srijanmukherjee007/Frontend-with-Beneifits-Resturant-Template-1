@@ -1,2 +1,7 @@
-# Template-Restaurant
-https://keen-brahmagupta-0309da.netlify.app/
+# Frontend with benefit - MSCKIIT
+
+Here's my solution to the challenge given to us by MSCKIIT in the FWB event.
+
+## Disclaimer
+
+The website is not responsive
